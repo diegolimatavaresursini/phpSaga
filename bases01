@@ -3,3 +3,4 @@
 this is a comment with multiple lines.
 */
 echo "Hello, world!";
+?>
